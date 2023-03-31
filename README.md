@@ -38,3 +38,13 @@ Towers mark team territory.
 * [ ] Combat in your team's area gives you a buff
 * [ ] Combat in other team's territory gives a debuff
 * [ ] [mapserver](https://github.com/minetest-mapserver/mapserver) support
+
+
+### Weapons
+
+* [ ] laser
+* [ ] longshot
+* [ ] rollers
+* [ ] mortars
+* [ ] rockets
+
