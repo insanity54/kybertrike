@@ -66,7 +66,7 @@ function kybertrike.jumpjet_on_use(itemstack, user, pointed_thing)
 end
 
 
-minetest.register_tool("kybertrike:jumpjet", {
+minetest.register_craftitem("kybertrike:jumpjet", {
     description = "Jumpjet",
     inventory_image = "kybertrike_jumpjet.png",
     on_use = kybertrike.jumpjet_on_use,
